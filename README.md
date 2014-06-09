@@ -1,4 +1,3 @@
-
 # requirements
 
 ## you will need to have your profile public accessible in order to use this script
@@ -21,3 +20,8 @@ php composer.phar install
 # Notes
 
 # for debugging add ?debug=true to the url
+=======
+residentadvisor-profile-calendar
+================================
+
+Will port your subscribed events of your public residentadvisor profile into your calendar
