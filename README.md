@@ -3,8 +3,6 @@ residentadvisor-profile-calendar
 
 Will port your subscribed events of your public residentadvisor profile into your calendar
 
-========
-
 # requirements
 
 * you will need to have your profile public accessible in order to use this script
@@ -18,9 +16,8 @@ curl -sS https://getcomposer.org/installer | php
 php composer.phar install
 ```
 
-* upload the folder to a php server
-* run the script by calling index.php or the root url of your app folder
-* subscribe the url in your ical or google calendar
+* upload the folder to a php server into its own folder
+* subscribe the url in your ical or google calendar e.g. 'http://www.yourdomain.com/ra-ical/index.php?name=darkside'
 
 # Notes
 
