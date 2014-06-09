@@ -1,21 +1,21 @@
 # requirements
 
-## you will need to have your profile public accessible in order to use this script
+* you will need to have your profile public accessible in order to use this script
 
 # installation
 
-## install and run composer
+* install and run composer
 
 ```
 curl -sS https://getcomposer.org/installer | php
 php composer.phar install
 ```
 
-## upload the folder to a php server
+* upload the folder to a php server
 
-## run the script by calling index.php or the root url of your app folder
+* run the script by calling index.php or the root url of your app folder
 
-## subscribe the url in your ical or google calendar
+* subscribe the url in your ical or google calendar
 
 # Notes
 
