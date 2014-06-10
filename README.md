@@ -23,4 +23,4 @@ php composer.phar install
 
 # Notes
 
-* for debugging add ?debug=true to the url
+* for debugging add &debug=true to the url e.g. ```http://www.yourdomain.com/ra-ical/index.php?name=darkside&debug=true```
